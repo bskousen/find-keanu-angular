@@ -27,7 +27,7 @@
   --body-background: #f8f4f4;
   --component-width-desktop: 460px;
   --component-width-mobile: 100%;
-  --color-primary: #ff9900;
+  --color-primary: #1C39BB;
   --color-primary-accent: #232f3e;
   --color-primary-highlight: #ffc46d;
   --color-background: #232f3e;
@@ -37,7 +37,7 @@
   --color-error: #d0021b;
   --color-accent-brown: #828282;
   --color-accent-blue: #e1e4ea;
-  --gradient-blaze: linear-gradient(270deg, #ffc300 0%, #ff9000 100%);
+  --gradient-blaze: linear-gradient(270deg, #1C39BB 0%, #1C39BB 100%);
   --color-blue: #007eb9;
   --color-purple: #527fff;
   --color-gray: #828282;
@@ -47,7 +47,7 @@
   --box-shadow: 1px 1px 4px 0 rgba(0, 0, 0, 0.15);
   --button-height: 42px;
   --interactions-conversation-height: 250px;
-  --ion-color-primary: #ff9900;
+  --ion-color-primary: #1C39BB;
   --ion-color-primary-rgb: 255, 153, 0;
   --ion-color-primary-contrast: #fff;
   --ion-color-primary-contrast-rgb: 255, 255, 255;
@@ -61,7 +61,7 @@ body {
   margin: 0;
 }
 a {
-  color: #ff9900;
+  color: #1C39BB;
 }
 h1 {
   font-weight: 300;

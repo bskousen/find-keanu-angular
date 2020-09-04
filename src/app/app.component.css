@@ -4,9 +4,9 @@
   text-align: center;
 }
 .app-body button {
-  background-color: #ff9900;
+  background-color: #EAF1FF;
   font-size: 14px;
-  color: white;
+  color: #333;
   text-transform: uppercase;
   padding: 1em;
   border: none;
@@ -62,9 +62,9 @@ input.file {
   display: inline-block;
   cursor: pointer; /* "hand" cursor */
 
-  background-color: #ff9900;
+  background-color: #EAF1FF;
   font-size: 14px;
-  color: white;
+  color: #333;
   text-transform: uppercase;
   padding: 1em;
   border: none;
@@ -116,7 +116,7 @@ input.file {
 
 /* When the checkbox is checked, add a blue background */
 .container input:checked ~ .checkmark {
-  background-color: #ff9900;
+  background-color: #EAF1FF;
 }
 
 /* Create the checkmark/indicator (hidden when not checked) */
@@ -267,7 +267,7 @@ img.inactive, label.inactive {
   cursor: default;
 }
 img.selected {
-  border: 4px #ff9900 solid;
+  border: 4px #EAF1FF solid;
 }
 
 @media only screen and (max-width: 767px) {
