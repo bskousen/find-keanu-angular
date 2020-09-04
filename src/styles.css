@@ -3,7 +3,7 @@
 
 :root {
   --amazonOrange: #EAF1FF;
-  --lightAmazonOrange: #ffac31;
+  --lightAmazonOrange: #eee;
   --darkAmazonOrange: #1C39BB;
   --squidInk: #232f3e;
   --lightSquidInk: #31465f;
@@ -29,7 +29,7 @@
   --component-width-mobile: 100%;
   --color-primary: #1C39BB;
   --color-primary-accent: #232f3e;
-  --color-primary-highlight: #ffc46d;
+  --color-primary-highlight: #1C39BB;
   --color-background: #232f3e;
   --color-secondary: #152939;
   --color-secondary-accent: #31465f;
@@ -52,7 +52,7 @@
   --ion-color-primary-contrast: #fff;
   --ion-color-primary-contrast-rgb: 255, 255, 255;
   --ion-color-primary-shade: #232f3e;
-  --ion-color-primary-tint: #ffc46d;
+  --ion-color-primary-tint: #1C39BB;
 }
 
 html,
@@ -72,7 +72,7 @@ h1 {
 .app-header {
   color: white;
   text-align: center;
-  background: linear-gradient(30deg, #f90 55%, #ffc300);
+  background: linear-gradient(30deg, #1C39BB 55%, #1c38b59f);
   width: 100%;
   margin: 0 0 1em 0;
   padding: 3em 0 3em 0;
@@ -99,7 +99,7 @@ h1 {
   flex-wrap: wrap;
 }
 .form-body button {
-  background-color: #ff9900;
+  background-color: #1C39BB;
   font-size: 14px;
   color: white;
   text-transform: uppercase;
@@ -265,7 +265,7 @@ button[disabled] {
 }
 
 .form-body select.detected {
-  border-color: rgba(255, 153, 0, 1);
+  border-color: #1C39BB;
   border-width: 3px;
 }
 

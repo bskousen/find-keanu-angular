@@ -257,7 +257,7 @@ input.file {
   box-sizing: content-box;
 }
 .preselection img:not(.inactive):hover {
-  border: 4px #ff9900 solid;
+  border: 4px #1C39BB solid;
 }
 .app-body label {
   cursor: pointer;
