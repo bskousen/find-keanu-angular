@@ -2,7 +2,7 @@
 @import "~@aws-amplify/ui/src/Angular.css";
 
 :root {
-  --amazonOrange: #ff9900;
+  --amazonOrange: #EAF1FF;
   --lightAmazonOrange: #ffac31;
   --darkAmazonOrange: #e88b01;
   --squidInk: #232f3e;
